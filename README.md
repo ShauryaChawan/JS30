@@ -20,3 +20,7 @@ This is the tutorial course from [https://javascript30.com/](https://javascript3
 4. key events
 
 ## Day 2: JS and CSS Clock
+
+1. rotation, and chaniging origin
+2. transtion-timing-function
+3. fix the issue of flicking of hands at 0 degree 
