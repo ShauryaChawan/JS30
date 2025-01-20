@@ -2,4 +2,5 @@
 
 This is the tutorial course from [https://javascript30.com/](https://javascript30.com/)
 
-Day1: Getting Setup
+Day 0: Getting Setup ✅
+Day 1: JS Drum Kit
