@@ -24,3 +24,7 @@ This is the tutorial course from [https://javascript30.com/](https://javascript3
 1. rotation, and chaniging origin
 2. transtion-timing-function
 3. fix the issue of flicking of hands at 0 degree 
+
+## Day 3: CSS Variables
+
+1. how to manipuate the css variables using js
