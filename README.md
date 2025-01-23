@@ -28,3 +28,10 @@ This is the tutorial course from [https://javascript30.com/](https://javascript3
 ## Day 3: CSS Variables
 
 1. how to manipuate the css variables using js
+
+## Day 4: Array Cardio Day 1
+
+1. map
+2. filter
+3. sort
+4. reduce
